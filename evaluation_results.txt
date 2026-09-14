@@ -1,0 +1,63 @@
+Validation Accuracy: 50.49%
+
+MOST CONFUSED PLAYER PAIRS
+============================
+Mohd Siraj -> Hardik Pandya: 3 images
+KL Rahul -> Rohit Sharma: 3 images
+Venkatesh  Iyer -> Rohit Sharma: 2 images
+Rishabh Pant -> Shubman Gill: 2 images
+Mohd Siraj -> KL Rahul: 2 images
+Yuzvendra Chahal -> Venkatesh  Iyer: 1 images
+Yuzvendra Chahal -> Suryakumar Yadav: 1 images
+Yuzvendra Chahal -> Shubman Gill: 1 images
+Yuzvendra Chahal -> Rishabh Pant: 1 images
+Virat Kohli -> Yuzvendra Chahal: 1 images
+Virat Kohli -> Venkatesh  Iyer: 1 images
+Virat Kohli -> Shubman Gill: 1 images
+Virat Kohli -> Rohit Sharma: 1 images
+Virat Kohli -> Ravindra Jadeja: 1 images
+Venkatesh  Iyer -> Suryakumar Yadav: 1 images
+Venkatesh  Iyer -> Shubman Gill: 1 images
+Venkatesh  Iyer -> Rishabh Pant: 1 images
+Venkatesh  Iyer -> Ravindra Jadeja: 1 images
+Suryakumar Yadav -> Venkatesh  Iyer: 1 images
+Suryakumar Yadav -> Hardik Pandya: 1 images
+Rohit Sharma -> Venkatesh  Iyer: 1 images
+Rohit Sharma -> Shubman Gill: 1 images
+Rohit Sharma -> Ravindra Jadeja: 1 images
+Rohit Sharma -> Mohd Siraj: 1 images
+Rohit Sharma -> Jasprit Bumrah: 1 images
+Rohit Sharma -> Hardik Pandya: 1 images
+Rishabh Pant -> Rohit Sharma: 1 images
+Rishabh Pant -> Ravindra Jadeja: 1 images
+Rishabh Pant -> Hardik Pandya: 1 images
+Ravindra Jadeja -> Venkatesh  Iyer: 1 images
+Ravindra Jadeja -> Suryakumar Yadav: 1 images
+Ravindra Jadeja -> Shubman Gill: 1 images
+Ravindra Jadeja -> Rohit Sharma: 1 images
+Mohd Siraj -> Venkatesh  Iyer: 1 images
+Mohd Siraj -> Rohit Sharma: 1 images
+Mohd Siraj -> Ravindra Jadeja: 1 images
+KL Rahul -> Ravindra Jadeja: 1 images
+KL Rahul -> Mohd Siraj: 1 images
+Jasprit Bumrah -> Venkatesh  Iyer: 1 images
+Jasprit Bumrah -> Ravindra Jadeja: 1 images
+Hardik Pandya -> Venkatesh  Iyer: 1 images
+Hardik Pandya -> Rohit Sharma: 1 images
+Hardik Pandya -> Rishabh Pant: 1 images
+Hardik Pandya -> KL Rahul: 1 images
+
+PER-PLAYER ACCURACY
+====================
+Hardik Pandya: 55.56% (5/9)
+Jasprit Bumrah: 75.00% (6/8)
+KL Rahul: 44.44% (4/9)
+Mohd Siraj: 11.11% (1/9)
+Ravindra Jadeja: 55.56% (5/9)
+Rishabh Pant: 37.50% (3/8)
+Rohit Sharma: 25.00% (2/8)
+Shubman Gill: 100.00% (9/9)
+Suryakumar Yadav: 77.78% (7/9)
+Venkatesh  Iyer: 33.33% (3/9)
+Virat Kohli: 37.50% (3/8)
+Yuzvendra Chahal: 50.00% (4/8)
